@@ -25,3 +25,4 @@ const student3 = {
 console.log(`ID: ${Mansi.id}, Name: ${Mansi.name}, Age: ${Mansi.age}, Course: ${Mansi.course}, Grade: ${Mansi.grade}`);
 console.log(`ID: ${Aishwary.id}, Name: ${Aishwary.name}, Age: ${Aishwary.age}, Course: ${Aishwary.course}, Grade: ${Aishwary.grade}`);
 console.log(`ID: ${Arjit.id}, Name: ${Arjit.name}, Age: ${Arjit.age}, Course: ${Arjit.course}, Grade: ${Arjit.grade}`);
+
